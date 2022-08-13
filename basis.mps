@@ -1,0 +1,22 @@
+* ENCODING=ISO-8859-1
+NAME          tsp.mps  Iterations 26  Rows 14  Cols 132
+ XL C0008     R0001   
+ XL C0009     R0002   
+ XL C0016     R0003   
+ XL C0020     R0004   
+ XL C0032     R0005   
+ XL C0037     R0006   
+ XL C0043     R0007   
+ XL C0051     R0008   
+ XL C0054     R0009   
+ XL C0061     R0010   
+ XL C0064     R0011   
+ XL C0066     R0012   
+ XL C0075     R0013   
+ XL C0087     R0014   
+ UL C0011
+ UL C0017
+ UL C0025
+ UL C0085
+ UL C0110
+ENDATA
